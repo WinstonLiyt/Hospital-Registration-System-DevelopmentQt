@@ -1,4 +1,4 @@
-# Hospital-Registration-System-Development-Qt-
+# Hospital-Registration-System-Development (Qt)
 
 ## Requirement
 
@@ -10,11 +10,25 @@ A hospital has **15 departments**, **each with** **3 doctors** on duty; there is
 
 ## Overall Design Framework
 
-1
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/27a9800f-eff3-4435-9ded-9846480add54)
+
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/87d3a10d-52f5-4f74-90aa-aae9f0c04285)
 
 ## Rendering
+**Welcome Page**:
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/31479c94-e3d3-4144-81a4-d580686f00f4)
 
-1
+**Registration Block Page**:
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/6b8eda43-ea0b-48a0-9222-a9a77ad6b0dd)
+
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/0e15ffba-8ac3-4c41-bc2d-5af9a75d4a1e)
+
+**Calling and Queuing Block Page**:
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/46e2cdfc-ec9a-421c-b2dc-2d243b47a0fd)
+
+**Doctor Querying Block Page**:
+![image](https://github.com/WinstonLiyt/Hospital-Registration-System-DevelopmentQt/assets/104308117/8cc205e9-25fd-48a6-8c80-c1cddf39f612)
+
 
 ## Operating Instructions
 
